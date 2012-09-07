@@ -192,6 +192,7 @@ AC_OUTPUT([
 	src/porting_layer/src/Makefile
 	src/common/Makefile
 	src/tools/Makefile 
+	src/phoneless/Makefile
 	test/Makefile
 	chewing.pc 
 	libchewing.spec

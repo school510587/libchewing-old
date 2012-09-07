@@ -19,7 +19,7 @@ EXTRA_DIST = \
 	Doxyfile
 
 AUTOMAKE_OPTIONS = foreign
-SUBDIRS = src/common src/tools data src
+SUBDIRS = src/common src/tools data src src/phoneless
 
 MAINTAINERCLEANFILES = \
 	Makefile.in \
